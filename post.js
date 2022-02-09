@@ -1,6 +1,6 @@
 // we need the webhook 
 // we also need to make a function sendData
-var webhook = 'https://discord.com/api/webhooks/893727213231419462/NBVvnOwyLMCh819voEZ83NmWAZ9Rfpzi8GWqwWRbsrdb3Yc9Yk-uxZYRUy3Lkl0bokP_'
+var webhook = 'YOUR WEBHOOK HERE'
 console.log("JS loaded Successfully.");
 // random color for embed 
 var random = Math.floor(Math.random() * 1000) * 10200
